@@ -1,0 +1,23 @@
+- Basic objects:
+    * Defination of Linked List.
+    * compare and conclude Linked List over Array.
+    * opration need:
+        . insertion.
+        . Deletion/ removal.
+        . traversal.
+    * LinkedList to perform:
+        . singly linked list
+        . double linked list
+
+- LinkedList :
+    linklist is a class do consist node and pointer. node defind as object literal do store data type of string or number. pointer defind as object that points to next node.
+
+    linked list does have property consist of head, tail and length.
+
+- Comparison between linked list and array :
+    array is the most basic data structure that sotre elements in consecutive memory. elements store in contiguous memory location. each item mapped with indecies in the array does get serialized in order.
+
+    In case of linklist value does get sorted in node but do not indecies like an array. Does have pointer that point to next node do LinkedList has.
+
+- Singly LinkedList :
+    Does follow order of linked list, pointer does point to next node in forword direction only.
