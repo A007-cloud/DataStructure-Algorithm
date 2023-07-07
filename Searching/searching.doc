@@ -1,0 +1,12 @@
+Searching : An algorithm does retive elements from an data structure process need to define. Does follow iterative process to retrive element.
+
+Two different search algorithm need to disscuss. (1) Linear Search , (2) Binary Search.
+
+Linear Search : An searching algorithm does define sequential process to retrive element from an data structure. Process need to define. Process should be iterative in manner.
+
+Time Complexity : O(n)
+
+Binary Search : An searching algorithm does follow iterative process to retrive element from an data structure. Does find the order to find middle element from an array and need to check condition does satisfy or not. Process should be logarithmic and iterative in manner.
+
+
+does follow logarithmic time complexity.
